@@ -7,5 +7,6 @@
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=AvikAgarwala&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
 <br>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=AvikAgarwala&theme=dark_lover&no-frame=true&no-bg=true&column=2&title=PullRequest,Repositories)
 </div>
