@@ -1,5 +1,5 @@
 <!-- banner image -->
-<img src="images/banner.png" alt="banner image">
+<img src="images/header.png" alt="banner image">
 
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikagarwala&label=Profile%20views&color=0e75b6&style=flat" alt="avikagarwala" /> </p>
