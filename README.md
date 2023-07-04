@@ -1,4 +1,4 @@
-<!-- banner image -->
+<!-- banner image to be updated -->
 <img src="images/header.png" alt="banner image">
 
 <!-- profile views -->
