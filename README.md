@@ -42,3 +42,11 @@
 
 :books: Skills :desktop_computer:
 </h1>
+
+<h1>Platform:&nbsp;&nbsp;
+    <img src="images/platforms/android.svg" height="34" alt="Android" align=right>&nbsp;&nbsp;
+    <img src="images/platforms/ios.svg" height="34" alt="iOS" align=right>&nbsp;&nbsp;
+    <img src="images/platforms/windows.svg" height="34" alt="Windows" align=right>&nbsp;&nbsp;
+    <img src="images/platforms/linux.svg" height="34" alt="Linux" align=right>&nbsp;&nbsp;
+    <img src="images/platforms/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;
+</h1>
