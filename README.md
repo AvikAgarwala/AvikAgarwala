@@ -5,6 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikagarwala&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <!-- social links -->
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+    <a href="https://linkedin.com/in/avikagarwala"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/avikagarwala"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/avikagarwala_"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/AvikAgarwala"><img height="34" src="images/socials/twitter.svg" alt="Twitter"></a>
+</p>
 
 <!-- github trophies -->
 <h3 align="center">GitHub Trophies</h3>
