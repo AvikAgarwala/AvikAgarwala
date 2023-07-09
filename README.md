@@ -70,3 +70,8 @@
     <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
 </h1>
+
+<h1>Backend:&nbsp;&nbsp;
+    <img src="images/backend/express-js.svg" height="34" alt="ExpressJS" align=right>&nbsp;&nbsp;
+    <img src="images/backend/node-js.svg" height="34" alt="Node.js" align=right>&nbsp;&nbsp;
+</h1>
