@@ -80,3 +80,7 @@
     <img src="images/database/firebase.svg" height="34" alt="Firebase" align=right>&nbsp;&nbsp;
     <img src="images/database/mongo-db.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;
 </h1>
+
+<h1>Cloud:&nbsp;&nbsp; <!-- cloud -->
+    <img src="images/cloud/azure.svg" height="34" alt="Azure" align=right>&nbsp;&nbsp;
+</h1>
