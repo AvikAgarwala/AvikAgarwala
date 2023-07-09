@@ -89,3 +89,8 @@
     <img src="images/dev-ops/github.svg" height="34" alt="Github" align=right>&nbsp;&nbsp;
     <img src="images/dev-ops/git.svg" height="34" alt="Git" align=right>&nbsp;&nbsp;
 </h1>
+
+<h1>IoT:&nbsp;&nbsp; <!-- IoT -->
+    <img src="images/iot/raspberry-pi.svg" height="34" alt="Raspberry Pi" align=right>&nbsp;&nbsp;
+    <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
+</h1>
