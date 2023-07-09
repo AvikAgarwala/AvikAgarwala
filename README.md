@@ -35,3 +35,10 @@
     &nbsp;&nbsp;
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=AvikAgarwala&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10" height="194.8px" alt="language stats">
 </div>
+<br>
+
+<!-- Skills -->
+<h1 align=center>
+
+:books: Skills :desktop_computer:
+</h1>
