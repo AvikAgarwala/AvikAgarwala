@@ -43,7 +43,7 @@
 :books: Skills :desktop_computer:
 </h1>
 
-<h1>Platform:&nbsp;&nbsp; <!-- platform -->
+<h1>Platform:&nbsp;&nbsp; <!-- Platform -->
     <img src="images/platforms/android.svg" height="34" alt="Android" align=right>&nbsp;&nbsp;
     <img src="images/platforms/ios.png" height="34" alt="iOS" align=right>&nbsp;&nbsp;
     <img src="images/platforms/windows.svg" height="34" alt="Windows" align=right>&nbsp;&nbsp;
@@ -51,7 +51,7 @@
     <img src="images/platforms/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;
 </h1>
 
-<h1>Language & Script:&nbsp;&nbsp; <!-- language & script -->
+<h1>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
     <img src="images/languages/pwsh.svg" height="34" alt="PowerShell" align=right>&nbsp;&nbsp;
     <img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;
     <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
@@ -61,7 +61,7 @@
     <img src="images/languages/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
 </h1>
 
-<h1>Frontend:&nbsp;&nbsp; <!-- frontend -->
+<h1>Frontend:&nbsp;&nbsp; <!-- Frontend -->
     <img src="images/frontend/react.svg" height="34" alt="React" align=right>&nbsp;&nbsp;
     <img src="images/frontend/typescript.svg" height="34" alt="TypeScrip" align=right>&nbsp;&nbsp;
     <img src="images/frontend/tailwind-css.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
@@ -71,17 +71,17 @@
     <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
 </h1>
 
-<h1>Backend:&nbsp;&nbsp; <!-- backend -->
+<h1>Backend:&nbsp;&nbsp; <!-- Backend -->
     <img src="images/backend/express-js.svg" height="34" alt="ExpressJS" align=right>&nbsp;&nbsp;
     <img src="images/backend/node-js.svg" height="34" alt="Node.js" align=right>&nbsp;&nbsp;
 </h1>
 
-<h1>Database:&nbsp;&nbsp; <!-- database -->
+<h1>Database:&nbsp;&nbsp; <!-- Database -->
     <img src="images/database/firebase.svg" height="34" alt="Firebase" align=right>&nbsp;&nbsp;
     <img src="images/database/mongo-db.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;
 </h1>
 
-<h1>Cloud:&nbsp;&nbsp; <!-- cloud -->
+<h1>Cloud:&nbsp;&nbsp; <!-- Cloud -->
     <img src="images/cloud/azure.svg" height="34" alt="Azure" align=right>&nbsp;&nbsp;
 </h1>
 
