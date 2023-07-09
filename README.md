@@ -75,3 +75,8 @@
     <img src="images/backend/express-js.svg" height="34" alt="ExpressJS" align=right>&nbsp;&nbsp;
     <img src="images/backend/node-js.svg" height="34" alt="Node.js" align=right>&nbsp;&nbsp;
 </h1>
+
+<h1>Database:&nbsp;&nbsp;
+    <img src="images/database/firebase.svg" height="34" alt="Firebase" align=right>&nbsp;&nbsp;
+    <img src="images/database/mongo-db.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;
+</h1>
