@@ -50,3 +50,13 @@
     <img src="images/platforms/linux.svg" height="34" alt="Linux" align=right>&nbsp;&nbsp;
     <img src="images/platforms/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;
 </h1>
+
+<h1>Language & Script:&nbsp;&nbsp;
+    <img src="images/languages/pwsh.svg" height="34" alt="PowerShell" align=right>&nbsp;&nbsp;
+    <img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;
+    <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
+    <img src="images/languages/java.svg" height="34" alt="JAVA" align=right>&nbsp;&nbsp;
+    <img src="images/languages/c-sharp.svg" height="34" alt="C#" align=right>&nbsp;&nbsp;
+    <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp;
+    <img src="images/languages/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
+</h1>
