@@ -60,3 +60,13 @@
     <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp;
     <img src="images/languages/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
 </h1>
+
+<h1>Frontend:&nbsp;&nbsp;
+    <img src="images/frontend/react.svg" height="34" alt="React" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/typescript.svg" height="34" alt="TypeScrip" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/tailwind-css.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/bootstrap.svg" height="34" alt="Bootstrap" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/js.svg" height="34" alt="JavaScript" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
+</h1>
