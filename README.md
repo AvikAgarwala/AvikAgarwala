@@ -37,6 +37,9 @@
 </div>
 <br>
 
+<!-- LeetCode stats -->
+<p align="center"><img src="https://leetcard.jacoblin.cool/AvikAgarwala?ext=heatmap"></p>
+
 <!-- Skills -->
 <h1 align=center>
 
