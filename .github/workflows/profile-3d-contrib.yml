@@ -1,23 +1,24 @@
-name: GitHub Profile 3D Contrib
+name: GitHub-Profile-3D-Contrib
+
 on:
-  schedule:
-    - cron: "30 2 * * *"
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile 3D Contrib
+    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Upload Generated Content
+      - name: Commit & Push
         run: |
-          git config --global user.name '${{ github.repository_owner }}'
-          git config --global user.email '${{ github.repository_owner }}@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A .
-          git commit -m "feat: updated profile contrib status"
+          git commit -m "generated"
           git push
