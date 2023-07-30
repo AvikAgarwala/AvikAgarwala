@@ -14,6 +14,8 @@
     <a href="https://twitter.com/AvikAgarwala"><img height="34" src="images/socials/twitter.svg" alt="Twitter"></a>
 </p>
 
+---
+
 <!-- github trophies -->
 <h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
@@ -23,6 +25,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AvikAgarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=PullRequest,Repositories,Reviews,Issues)
 </div>
+
+---
 
 <!-- github stats -->
 <h3 align="center">📈 GitHub Stats 📊</h3>
@@ -37,8 +41,12 @@
 </div>
 <br>
 
+---
+
 <!-- LeetCode stats -->
 <p align="center"><img src="https://leetcard.jacoblin.cool/AvikAgarwala?ext=heatmap&theme=dark"></p>
+
+---
 
 <!-- Skills -->
 <h1 align=center>
@@ -99,6 +107,8 @@
     <img src="images/iot/raspberry-pi.svg" height="34" alt="Raspberry Pi" align=right>&nbsp;&nbsp;
     <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
 </h1>
+
+---
 
 <!-- Profile 3D Contrib -->
 <h1 align=center>
