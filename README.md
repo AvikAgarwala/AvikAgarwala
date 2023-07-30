@@ -46,6 +46,7 @@
 ---
 
 <!-- LeetCode stats -->
+<h3 align="center">📊 Coding Stats 📈</h3>
 <p align="center"><img src="https://leetcard.jacoblin.cool/AvikAgarwala?ext=heatmap&theme=dark"></p>
 
 ---
