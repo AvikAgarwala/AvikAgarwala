@@ -1,3 +1,5 @@
+---
+
 <!-- banner image to be updated -->
 <img src="images/header.png" alt="banner image">
 
@@ -119,3 +121,5 @@
 <div align=center>
     <img src="profile-3d-contrib/profile-night-rainbow.svg" height="500" alt="Profile 3D Contrib">
 </div>
+
+---
