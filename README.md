@@ -97,6 +97,7 @@
 <h1>Cloud:&nbsp;&nbsp; <!-- Cloud -->
     <img src="images/cloud/google-cloud.svg" height="34" alt="Google Cloud" align=right>&nbsp;&nbsp;
     <img src="images/cloud/azure.svg" height="34" alt="Azure" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/aws.svg" height="34" alt="AWS" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>DevOps:&nbsp;&nbsp; <!-- DevOps -->
